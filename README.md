@@ -1,5 +1,7 @@
 # Project-Ouroboros
 
+Game created at ShefJam 8. Project Ouroboros is a game about being stuck on a spaceship while it explodes. Winner of best interpretation of theme award.
+
 Created by team Ouroboros at ShefJam 8
 
 Members:
